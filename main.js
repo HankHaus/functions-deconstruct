@@ -8,4 +8,4 @@ const corners = () => {
 
 const secondAndThirdLayers = () => {
     console.log(`solve second and third layers`)
-};
+}:
